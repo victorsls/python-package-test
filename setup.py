@@ -13,7 +13,7 @@ DESCRIPTION = 'A test Python package'
 LONG_DESCRIPTION = 'A test Python package, to validate the creation of a new package.'
 
 setup(
-    name="python-package-test",
+    name="python_package_test",
     version=VERSION,
     author="Victor Rafael",
     author_email="<victorsls@outlook.com>",
